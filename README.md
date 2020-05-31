@@ -20,7 +20,7 @@ Link's True Journey is a 2-D open world game created using Javascript for my Gra
 
 ## How to Load Game
 
-Simply clone the github repository to a local directory and open the `Game.html` file using a web browser like Google Chrome.
+Simply clone the Github repository to a local directory and open the `Game.html` file using a web browser like Google Chrome.
 
 ## Features
 
