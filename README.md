@@ -11,7 +11,7 @@
 
 ## Overview
 
-Link's True Journey is a 2-D open world game created using Javascript for my Grade 11 Computer Science Summative. The objective is to explore the large map, upgrade your equipment, battle monsters, collect treasure chests and visit unique characters along the way!
+Link's True Journey is a 2D open-world game created using Javascript for my Grade 11 Computer Science Summative. The objective is to explore the large map, upgrade your equipment, battle monsters, collect treasure chests and visit unique characters along the way!
 
 ## Demo
 
