@@ -32,4 +32,4 @@ Link's True Journey is a 2-D open world game created using Javascript for my Gra
 
 ## Acknowledgements
 
-- Thanks to [DevianArt](https://www.deviantart.com/) for allowing me to use their sprites/images
+- Thanks to [DevianArt](https://www.deviantart.com/) for hosting and allowing me to use their sprites/images
