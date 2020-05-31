@@ -4,6 +4,7 @@
 
 - [Overview](#Overview)
 - [Demo](#Demo)
+- [How to Load Game](#how-to-load-game)
 - [Features](#Features)
 - [Technologies Used](#technologies-used)
 - [Acknowledgements](#acknowledgements)
@@ -17,6 +18,10 @@ Link's True Journey is a 2-D open world game created using Javascript for my Gra
 <img src="gifs/gif_1.gif?raw=true"/> <img src="gifs/gif_2.gif?raw=true"/> <img src="gifs/gif_3.gif?raw=true"/>
 <img src="gifs/gif_5.gif?raw=true"/> <img src="gifs/gif_6.gif?raw=true"/>
 
+## How to Load Game
+
+Simply clone the github repository to a local directory and open the `Game.html` file using a web browser like Google Chrome.
+
 ## Features
 
 - Open-world (large map, just hold M and see for yourself!)
@@ -24,6 +29,7 @@ Link's True Journey is a 2-D open world game created using Javascript for my Gra
 - Battle powerful enemies
 - Find cool loot like treasure chests around the map
 - Visit some really bizarre characters that you might know of!
+- Nice music
 
 ## Technologies Used
 
