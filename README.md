@@ -28,7 +28,7 @@ Link's True Journey is a 2-D open world game created using Javascript for my Gra
 ## Technologies Used
 
 - [NotePad++](https://notepad-plus-plus.org/downloads/) - IDE used to build the game
-- [Java](https://www.javascript.com/) - Programming language used
+- [Javascript](https://www.javascript.com/) - Programming language used
 
 ## Acknowledgements
 
