@@ -35,6 +35,7 @@ Simply clone the github repository to a local directory and open the `Game.html`
 
 - [NotePad++](https://notepad-plus-plus.org/downloads/) - IDE used to build the game
 - [Javascript](https://www.javascript.com/) - Programming language used
+- [Tiled](https://www.mapeditor.org/) - Map/level editor 
 
 ## Acknowledgements
 
